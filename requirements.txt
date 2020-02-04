@@ -1,0 +1,11 @@
+requests==2.18.4
+itchat
+tornado
+redis
+jieba
+sqlalchemy
+snownlp
+cnocr==1.0.0
+mxnet==1.4.1
+scipy==1.4.1
+# pytesseract
